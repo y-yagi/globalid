@@ -67,6 +67,7 @@ PLATFORMS
 DEPENDENCIES
   activemodel
   globalid!
+  rack (~> 1.0)
   railties
   rake
 
